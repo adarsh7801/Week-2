@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Class Modelling/Class Modelling.iml" filepath="$PROJECT_DIR$/Class Modelling/Class Modelling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day01/Day01.iml" filepath="$PROJECT_DIR$/Day01/Day01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day02/Day02.iml" filepath="$PROJECT_DIR$/Day02/Day02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day03/Day03.iml" filepath="$PROJECT_DIR$/Day03/Day03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day05/Day05.iml" filepath="$PROJECT_DIR$/Day05/Day05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day06/Day06.iml" filepath="$PROJECT_DIR$/Day06/Day06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day03/Level02/Level02.iml" filepath="$PROJECT_DIR$/Day03/Level02/Level02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Linked List/Linked List.iml" filepath="$PROJECT_DIR$/Linked List/Linked List.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day03/Level02/SimulateStudentReport/SimulateStudentReport.iml" filepath="$PROJECT_DIR$/Day03/Level02/SimulateStudentReport/SimulateStudentReport.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day01/StringHandelling/StringHandelling.iml" filepath="$PROJECT_DIR$/Day01/StringHandelling/StringHandelling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week-2.iml" filepath="$PROJECT_DIR$/Week-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day04/day04.iml" filepath="$PROJECT_DIR$/day04/day04.iml" />
+    </modules>
+  </component>
+</project>
